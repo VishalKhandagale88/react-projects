@@ -9,6 +9,7 @@ input{
     height: 25px;
     background-color: rgba(208, 228, 245, 0.449);
     border: none;
+    border-radius: 4px;
 }
 .btn{
     background-color: rgba(0, 0, 255, 0.408);
