@@ -1,5 +1,6 @@
 
 import './App.css'
+import { AddTranscation } from './Components/AddTranscation'
 import { Balance } from './Components/Balance'
 import { Header } from './Components/Header'
 import { IncomeExpenses } from './Components/IncomeExpenses'
@@ -15,6 +16,7 @@ function App() {
         <Balance/>
         <IncomeExpenses/>
         <TranscationList/>
+        <AddTranscation/>
       </div>
     </>
   )
