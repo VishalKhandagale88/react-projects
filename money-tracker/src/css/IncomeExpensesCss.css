@@ -7,3 +7,9 @@
     box-shadow: 1px 0.5px 2px   ;
     column-gap: 20px;
 }
+.money-plus{
+    color: green;
+}
+.money-minus{
+    color: red;
+}
