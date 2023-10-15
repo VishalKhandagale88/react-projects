@@ -11,6 +11,8 @@ input{
     border-radius: 4px;
 }
 .btn{
+    width: 250px;
+    padding: 6px;
     margin-top: 10px;
     background-color: rgba(0, 0, 255, 0.408);
 }
