@@ -1,4 +1,4 @@
-
+import "../css/IncomeExpensesCss.css"
 export const IncomeExpenses = () => {
   return (
     <div className="ico-exp-container">
