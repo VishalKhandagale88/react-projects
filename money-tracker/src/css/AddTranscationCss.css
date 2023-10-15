@@ -1,0 +1,15 @@
+.form-control{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+input{
+    width: 250px;
+    height: 25px;
+    background-color: rgba(208, 228, 245, 0.449);
+    border: none;
+}
+.btn{
+    background-color: rgba(0, 0, 255, 0.408);
+}

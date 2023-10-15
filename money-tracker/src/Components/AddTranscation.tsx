@@ -1,3 +1,4 @@
+import "../css/AddTranscationCss.css"
 export const AddTranscation = () => {
   return (
     <>
