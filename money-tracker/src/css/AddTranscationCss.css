@@ -1,6 +1,7 @@
 .form-control{
-    display: flex;
-    flex-direction: column;    
+    display: block;
+    margin-top: 15px;
+    
 }
 input{
     width: 250px;

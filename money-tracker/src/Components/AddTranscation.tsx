@@ -5,7 +5,7 @@ export const AddTranscation = () => {
         <h3>Add new trasaction</h3>
         <form >
             <div className="form-control">
-                <label htmlFor="text">Test</label>
+                <label htmlFor="text">Text</label>
                 <input type="text" placeholder="Enter test ..." />
             </div>
             <div className="form-control">
